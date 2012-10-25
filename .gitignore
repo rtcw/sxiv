@@ -1,0 +1,7 @@
+config
+config.h
+*.o
+sxiv
+cscope.out
+tags
+release
